@@ -36,7 +36,6 @@ This project strengthened my understanding of webpage structure, styling, layout
 
 ---
 
-## Project Links
-- GitHub Repository: (Add your repository link here)  
-- Demo Video: (Add video link if applicable)  
-- LinkedIn Post: (Add LinkedIn post link here)  
+## Project Links  
+- Demo Video: (https://www.linkedin.com/posts/abhigunjal_internship-webdevelopment-frontenddevelopment-activity-7428039518118682624-J858?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGG581ABFsRfTxFNTX338OgOupBw5BjH81c)  
+- LinkedIn Post: (https://www.linkedin.com/posts/abhigunjal_internship-webdevelopment-frontenddevelopment-activity-7428039518118682624-J858?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGG581ABFsRfTxFNTX338OgOupBw5BjH81c)  
